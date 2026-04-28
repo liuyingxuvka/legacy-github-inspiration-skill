@@ -22,15 +22,19 @@ A safety-bounded Codex skill for turning old GitHub repositories into read-only 
 
 ## Visual concept
 
-A bright safety-funnel diagram where legacy repositories pass through age filtering, read-only quarantine, no-run/no-install/no-network gates, static inspection, and idea-only extraction.
+A bright archival safety funnel where old repository folios move through age filtering, quarantine, locked safety barriers, risk diversion, and idea-only extraction.
+
+## Material language
+
+Ivory archival paper, copper rails and locks, matte enamel safety gates, red wax-like quarantine seals, and amber resin idea crystals.
 
 ## Image keywords
 
-bright conceptual schematic, legacy repositories, age filter, read-only quarantine, safety gates, idea extraction
+premium workflow visual, legacy repositories, read-only archive, safety gates, quarantine seals, idea extraction
 
 ## Generation method
 
-Direct project-specific text-to-image generation using a bright conceptual schematic direction. This hero is not a reused SVG, HTML, Canvas, Pillow, robot-screen scene, or dark dashboard template.
+Direct project-specific text-to-image generation using a premium art-directed product-object workflow direction. The prompt used archival paper, copper, enamel, wax-seal, and resin materials so the image reads as safe old-repo inspection rather than a generic tech diagram.
 
 ## File paths
 
@@ -40,4 +44,4 @@ Direct project-specific text-to-image generation using a bright conceptual schem
 
 ## README insertion position
 
-Updated the existing README HERO block after the first H1 heading.
+Existing README HERO block after the first H1 heading; image file replaced without rewriting the README body.
