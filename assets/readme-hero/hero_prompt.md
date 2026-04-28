@@ -1,21 +1,3 @@
 # README Hero Prompt
 
-Use case: productivity-visual
-Asset type: GitHub README concept hero image
-Project: Legacy GitHub Inspiration Skill
-Hero tagline: A safety-bounded Codex skill for turning old GitHub repositories into read-only design inspiration.
-
-Primary request:
-Create a professional, modern, clean, visually strong, slightly cinematic concept hero image for a GitHub README. The image should make the project understandable within three seconds.
-
-Project-specific visual subject:
-An archive of old repositories passes through read-only safety gates before becoming neutral idea cards for new work.
-
-Composition:
-Wide 1600 x 840 banner with a deterministic text layer, project name on the left, minimal workflow labels on the right, semi-realistic software panels, glass surfaces, subtle depth, and clear data/workflow connections.
-
-Text constraints:
-Use only this exact English text: project name, hero tagline, and the workflow labels Search, Filter, Inspect, Re-express. Keep text minimal and deterministic.
-
-Avoid:
-Generic technology wallpaper, childish illustration, heavy cartoon style, anime-only style, memes, unreadably dark output, visual clutter, fake UI paragraphs, garbled text, Chinese text, watermarks, or decorative-only backgrounds.
+Create a wide GitHub README concept hero image for a Codex skill named Legacy GitHub Inspiration Skill. Direct text-to-image generation, no SVG template and no reused layout. Visual subject: an elegant secure research archive for old open-source repositories. Show shelves of aged GitHub repository artifacts behind glass, each with old commit timelines and file trees, while a Codex agent studies them through a read-only inspection console. The central scene must show strong safety boundaries: a quarantine reading room, locked execution controls, no-install/no-run barriers, a date eligibility filter before 2022-09-01, and a clean transformation desk where only abstract architecture ideas become new neutral design notes. Make it clear that the repositories are inspiration only, not copied code. Style: professional modern security/product hero, semi-realistic CG, cinematic archive lighting, steel, glass, paper, soft teal and warm amber highlights, mature and calm. Composition: wide README banner, distinctive archive-and-safety-gate scene, not a generic dashboard, not a code pipeline. Constraints: no long readable text, no Chinese text, no gibberish, no real repository names, no watermark, no logo, not cartoon, not anime, not childish, not meme-like.

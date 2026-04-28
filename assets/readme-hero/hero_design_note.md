@@ -10,7 +10,7 @@ Codex agents that need design inspiration from old repositories while preserving
 
 ## Core problem
 
-External repositories can leak prompt-injection, supply-chain, copying, and execution risks when used as inspiration sources.
+External repositories can introduce prompt-injection, supply-chain, copying, execution, and external-link risks when treated too casually as inspiration sources.
 
 ## Core workflow
 
@@ -22,20 +22,22 @@ A safety-bounded Codex skill for turning old GitHub repositories into read-only 
 
 ## Visual concept
 
-An archive of old repositories passes through read-only safety gates before becoming neutral idea cards for new work.
+A secure archive and quarantine reading room where old repositories are filtered, inspected read-only, and converted into abstract original design notes without copied code.
 
 ## Image keywords
 
-Read-only, Filter, Re-express
+legacy repository archive, read-only inspection, safety gates, quarantine room, original design notes
+
+## Generation method
+
+Direct project-specific text-to-image generation. This hero is not a reused SVG, HTML, Canvas, Pillow, or card-grid template.
 
 ## File paths
 
 - `assets/readme-hero/hero.png`
-- `assets/readme-hero/hero.svg`
-- `assets/readme-hero/hero-background.png`
 - `assets/readme-hero/hero_prompt.md`
 - `assets/readme-hero/hero_design_note.md`
 
 ## README insertion position
 
-Updated the existing README HERO block.
+Updated the existing README HERO block after the first H1 heading.
