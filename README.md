@@ -1,5 +1,15 @@
 # Legacy GitHub Inspiration Skill
 
+<!-- README HERO START -->
+<p align="center">
+  <img src="./assets/readme-hero/hero.png" alt="Legacy GitHub Inspiration Skill concept hero image" width="100%" />
+</p>
+
+<p align="center">
+  <strong>A safety-bounded Codex skill for turning old GitHub repositories into read-only design inspiration.</strong>
+</p>
+<!-- README HERO END -->
+
 Version: 0.1.1
 
 语言说明：本 README 采用中文优先、英文一一对应的双语结构。英文部分不是补充摘要，而是中文部分的等价版本。Skill 本体使用英文，因为它是给 Codex 长期读取和执行的规则。
