@@ -22,15 +22,15 @@ A safety-bounded Codex skill for turning old GitHub repositories into read-only 
 
 ## Visual concept
 
-A secure archive and quarantine reading room where old repositories are filtered, inspected read-only, and converted into abstract original design notes without copied code.
+A bright safety-funnel diagram where legacy repositories pass through age filtering, read-only quarantine, no-run/no-install/no-network gates, static inspection, and idea-only extraction.
 
 ## Image keywords
 
-legacy repository archive, read-only inspection, safety gates, quarantine room, original design notes
+bright conceptual schematic, legacy repositories, age filter, read-only quarantine, safety gates, idea extraction
 
 ## Generation method
 
-Direct project-specific text-to-image generation. This hero is not a reused SVG, HTML, Canvas, Pillow, or card-grid template.
+Direct project-specific text-to-image generation using a bright conceptual schematic direction. This hero is not a reused SVG, HTML, Canvas, Pillow, robot-screen scene, or dark dashboard template.
 
 ## File paths
 
